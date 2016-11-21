@@ -1,0 +1,53 @@
+.header-box {
+  h3 {
+    margin: 0;
+    padding: .6rem 1rem .5rem;
+  }
+
+  p {
+    margin: 0;
+    padding: 1rem;
+  }
+}
+
+.problem {
+  margin-top: 2rem;
+
+  h3 {
+    background-color: lighten($problem-color, 40%);
+
+    &::before {
+      color: lighten($problem-color, 25%);
+      content: counter(section);
+      counter-increment: section;
+      display: block;
+      float: right;
+      padding-left: 1rem;
+    }
+  }
+
+  p {
+    background-color: lighten($problem-color, 50%);
+  }
+}
+
+.fix {
+  margin-bottom: 2rem;
+
+  h3 {
+    background-color: lighten($accent-color, 40%);
+  }
+
+  p {
+    background-color: lighten($accent-color, 50%);
+  }
+
+  &::before {
+    border-right: solid 10px lighten($accent-color, 40%);
+    box-sizing: border-box;
+    content: '';
+    display: block;
+    height: 1rem;
+    width: 50%;
+  }
+}

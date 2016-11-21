@@ -1,0 +1,12 @@
+a {
+  color: $accent-color;
+
+  &:hover {
+    background-color: lighten($accent-color, 60%);
+    text-decoration: none;
+  }
+}
+
+strong {
+  font-weight: 700;
+}
