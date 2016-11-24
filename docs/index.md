@@ -5,13 +5,15 @@ title: Fix Politics Today
 
 # Fix politics today
 
-Our politics are broken—and it’s my fault. I’ve come to understand that my
-feelings of hopelessness and anger are caused by my own irrational decisions. If
-I can fix that, I can fix politics.
+Our politics are broken to the point that I feel myself despairing and
+disengaging. Recently, however, I’ve realized that many of my feelings of
+hopelessness and anger are caused by my own irrational decisions. If I can fix
+that, maybe I can fix politics (for me).
 
-This is not a retreat from the issues I care about. This is my plan to make a
-greater political impact and remove destructive forces from my life by
-addressing these irrational decisions:
+This is not a retreat from the issues I care about or an attempt to blame myself
+for the behavior of others. This is simply my plan to make a greater political
+impact and remove destructive forces from my life by addressing these irrational
+decisions:
 
 <div class="problem header-box">
   <h3>I act like my vote, my voice, and my actions don’t matter.</h3>
