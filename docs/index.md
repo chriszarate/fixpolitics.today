@@ -99,3 +99,5 @@ If you have comments on these problems, messages of support, or strategies that
 you use to fix politics in your life, please send them to
 [ideas@fixpolitics.today](mailto:ideas@fixpolitics.today) and I will update
 this site to include them.
+
+<p class="links"><a class="tweet-link" href="https://twitter.com/intent/tweet?text=Can+you+fix+politics+for+you%3F+http://fixpolitics.today/&hashtags=fixpoliticstoday">#fixpoliticstoday</a></p>
