@@ -5,7 +5,7 @@ title: Fix Politics Today
 
 # Fix politics today
 
-Our politics are broken—and it's my fault. I've come to understand that my
+Our politics are broken—and it’s my fault. I’ve come to understand that my
 feelings of hopelessness and anger are caused by my own irrational decisions. If
 I can fix that, I can fix politics.
 
@@ -81,12 +81,12 @@ addressing these irrational decisions:
 
 <div class="fix header-box">
   <h3>Fix</h3>
-  <p>Don't look to the media to tell me what to be outraged about—or when it's
+  <p>Don’t look to the media to tell me what to be outraged about—or when it’s
   time to move on. Maintain focus and action on issues that are important to me,
   even when they seem to fade from discussion. Contact representatives—local,
   state, and national—and ask what I can do to further the cause—especially
   if my representative disagrees with me. Ignore requests to take on more
-  outrage before I'm ready for it.</p>
+  outrage before I’m ready for it.</p>
 </div>
 
 These are simple solutions to very hard problems. I know that some of these
